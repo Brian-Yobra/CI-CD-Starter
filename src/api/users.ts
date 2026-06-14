@@ -37,6 +37,6 @@ function generateRandomSHA256Hash(): string {
   // should we be using crypto.randomBytes instead of crypto.pseudoRandomBytes?
   return crypto
     .createHash("sha256")
-    .update(crypto.randomBytes(20).toString('hex'))
+    .update(crypto.randomBytes(20).toString("hex"))
     .digest("hex");
 }
