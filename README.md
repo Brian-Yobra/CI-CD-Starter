@@ -1,3 +1,5 @@
+![Status](https://github.com/Brian-Yobra/CI-CD-Starter/actions/workflows/ci.yml/badge.svg)
+
 # Learn-CI/CD-Typescript-Starter (Notely)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
